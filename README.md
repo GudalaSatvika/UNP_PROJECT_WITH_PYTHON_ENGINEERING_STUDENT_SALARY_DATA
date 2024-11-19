@@ -4,5 +4,6 @@ Apply the K-Nearest Neighbors algorithm, though typically used for classificatio
 After testing all models, you will compare their accuracy and effectiveness in predicting engineering student salaries. The best-performing model will be identified, and further recommendations for model improvement or feature enhancement will be suggested.
 
 https://colab.research.google.com/drive/1BApwys82IEYUaCm72aY0_LtNd8h429rp?usp=sharing
+
 https://drive.google.com/file/d/1fGpsU41DGFATcFWsZOAz63-7daogaHEm/view?usp=sharing
 
